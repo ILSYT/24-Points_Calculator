@@ -1,5 +1,10 @@
 # 24-Points Calculator
+
+[![CodeFactor](https://www.codefactor.io/repository/github/sxyz2019/24-points_calculator/badge/master)](https://www.codefactor.io/repository/github/sxyz2019/24-points_calculator/overview/master)
+
 高效实用的二十四点计算器/出题机
+
+
 
 ----------------------------
 还在为算不出二十四点而苦恼吗？
